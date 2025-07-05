@@ -1,4 +1,4 @@
-Rust CLI for showing NVIDIA gpu stats.
+### Rust CLI for showing NVIDIA gpu stats.
 ![Screenshot from 2025-07-04 17-36-33](https://github.com/user-attachments/assets/a6b0f681-08c9-4933-ae32-22d0867ec8ee)
 
 
