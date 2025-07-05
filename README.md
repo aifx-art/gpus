@@ -1,11 +1,20 @@
+Rust CLI for showing NVIDIA gpu stats.
+
+just run it
+```
+gpus
+```
+and then press ```q``` to quit
+
+
 # TODOs
 
 ## todo
-great and for the ram usuage the number displayed should be actual GBs and at the top of that column it should show the total GB for that card
 
 ## doing
 
 ## done
+- ram in GBs
 - Modify layout to show all GPUs with each GPU's charts on a single row
 - Double the height for better visibility
 - Replace random data with nvml_wrapper for real GPU usage
