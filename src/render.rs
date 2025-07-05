@@ -71,7 +71,7 @@ pub fn draw_bars_tui<T: std::io::Write>(terminal: &mut Terminal<CrosstermBackend
             .split(size);
         
         // Title
-        let title_text = format!("GPU Monitor - {} GPU{} detected", 
+        let title_text = format!("{} GPU{} detected", 
             gpu_count, 
             if gpu_count == 1 { "" } else { "s" }
         );
