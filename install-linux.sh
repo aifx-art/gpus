@@ -1,2 +1,2 @@
 cargo build --release &&
-sudo cp target/release/gpus /usr/bin
+cp target/release/gpus /usr/bin
